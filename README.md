@@ -3,8 +3,8 @@
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Test</b>
-  - [Testing](https://github.com/DataSciWithJoshua/Test)
+- <b>Machine Learning - MNIST Neural Network in C and OpenMP</b>
+  - [Testing](https://github.com/DataSciWithJoshua/MNIST_NN_C_OMP)
 
 <h2>👨‍💻 Certifications:</h2>
 
