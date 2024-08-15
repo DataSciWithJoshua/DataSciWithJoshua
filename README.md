@@ -4,7 +4,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Machine Learning - MNIST Neural Network in C and OpenMP</b>
-  - [Testing](https://github.com/DataSciWithJoshua/MNIST_NN_C_OMP)
+  - [MNIST_NN_C_OMP](https://github.com/DataSciWithJoshua/MNIST_NN_C_OMP)
 
 <h2>👨‍💻 Certifications:</h2>
 
