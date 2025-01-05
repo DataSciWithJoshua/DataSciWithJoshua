@@ -10,12 +10,9 @@
   - [SVD_NetworkCompression](https://github.com/DataSciWithJoshua/SVD_NetworkCompression)
 
 <h2>👨‍💻 Certifications:</h2>
-
-- <b>Data Test</b>
   - [Coming Soon](https://github.com/DataSciWithJoshua)
 
 <h2>📺 Popular YouTube Videos</h2>
-
 - [Coming Soon](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
