@@ -6,6 +6,9 @@
 - <b>Machine Learning - MNIST Neural Network in C and OpenMP Parallelization</b>
   - [MNIST_NN_C_OMP](https://github.com/DataSciWithJoshua/MNIST_NN_C_OMP)
 
+- <b>Machine Learning - SVD Network Compression for Speech Denoising</b>
+  - [SVD_NetworkCompression](https://github.com/DataSciWithJoshua/SVD_NetworkCompression)
+
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Data Test</b>
