@@ -1,4 +1,5 @@
 <h1>Hello! I'm Joshua <br/><a href="https://github.com/DataSciWithJoshua">Programmer</a>, <a href="https://www.linkedin.com/in/DataSciWithJoshua/">Data Scientist</a>
+<h2>This portfolio showcases select projects demonstrating my practical experience with diverse machine learning techniques.</h2>
 <h2>This page is currently under construction</h2>
   
 <h2>👨‍💻 Software Development Projects:</h2>
