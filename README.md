@@ -12,12 +12,9 @@
 - <b>Machine Learning - SVD Network Compression for Speech Denoising</b>
   - [SVD_NetworkCompression](https://github.com/DataSciWithJoshua/SVD_NetworkCompression)
 
-https://github.com/DataSciWithJoshua/tweet-sentiment-analysis
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshuaJones | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/joshua-m-jones-jmj/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-m-jones-jmj/)
 
 <!--
 **DataSciWithJoshua/DataSciWithJoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
