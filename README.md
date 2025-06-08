@@ -1,20 +1,13 @@
 <h1>Hello! I'm Joshua <br/><a href="https://github.com/DataSciWithJoshua">Programmer</a>, <a href="https://www.linkedin.com/in/DataSciWithJoshua/">Data Scientist</a>
-<h2>This portfolio showcases select projects demonstrating my practical experience with diverse machine learning techniques.</h2>
-<h2>This page is currently under construction</h2>
+<h4>This portfolio showcases select projects demonstrating my practical experience with diverse machine learning techniques.</h4>
   
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Machine Learning - MNIST Neural Network in C and OpenMP Parallelization</b>
   - [MNIST_NN_C_OMP](https://github.com/DataSciWithJoshua/MNIST_NN_C_OMP)
 
 - <b>Machine Learning - SVD Network Compression for Speech Denoising</b>
   - [SVD_NetworkCompression](https://github.com/DataSciWithJoshua/SVD_NetworkCompression)
-
-<h2>👨‍💻 Certifications:</h2>
-  - [Coming Soon](https://github.com/DataSciWithJoshua)
-
-<h2>📺 Popular YouTube Videos</h2>
-- [Coming Soon](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -23,9 +16,6 @@
 [<img align="left" alt="JoshuaJones | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshuaJones | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitterNone]: https://twitter.com/DataSciWithJoshua
-[youtubeNone]: https://www.youtube.com/c/DataSciWithJoshua
-[instagramNone]: https://www.instagram.com/DataSciWithJoshua/
 [linkedin]: https://linkedin.com/in/joshua-m-jones-jmj/
 
 <!--
