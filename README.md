@@ -3,18 +3,19 @@
   
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Machine Learning - Twitter Sentiment Analysis with Regex-Based Text Cleaning</b>
+  - [Text Sentiment Analysis](https://github.com/DataSciWithJoshua/tweet-sentiment-analysis)
+
 - <b>Machine Learning - MNIST Neural Network in C and OpenMP Parallelization</b>
   - [MNIST_NN_C_OMP](https://github.com/DataSciWithJoshua/MNIST_NN_C_OMP)
 
 - <b>Machine Learning - SVD Network Compression for Speech Denoising</b>
   - [SVD_NetworkCompression](https://github.com/DataSciWithJoshua/SVD_NetworkCompression)
 
+https://github.com/DataSciWithJoshua/tweet-sentiment-analysis
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshuaJones | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshuaJones | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshuaJones | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshuaJones | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://linkedin.com/in/joshua-m-jones-jmj/
 
